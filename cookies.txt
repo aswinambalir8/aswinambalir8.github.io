@@ -1,0 +1,31 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/report/	FALSE	1999999999	ppwp_wp_session	ecbcf6ddc9cb7deedd0bf1b343d17541%7C%7C1677849752%7C%7C1677849392
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	ag4d8kvdq6s91gpghlileufm8o
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:7105899815726472868
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=TGST05:s=T:r=T:a=T:p=T:g=2722:u=1:x=1:i=1677847737:t=1677934137:v=2:sig=AQEA9MOLZY7Z6ROfW-GGDzA_v7Fw15iV"
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&9011a81b-e72b-42b6-8814-8bc1aafdc61d"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20230303124857393c91ab-aa1b-4ba7-8572-80d739374a82AQEF4ygDnCyAIhJEPnU-pKjJhp5aK6rg"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	xR9b5r5wZr2RB08fbaD6FyIRfPsxlGPmBymYaY993g5%2FxF27RkYU9mSzgZdBFbxatj6aBALKlG%2FzGIuz1W7CwRQViG6Aid7S2gAqNTEdMEsWKBd2%2FXfaBkBuaRZZGJx5cAx267UIPdPS90fhYwHupwTdzmcMziEd74VP1PhrAUdYW4apY8FEcY4%2FaYCo4B8mrGa7Gm9RaZJ%2FBPj%2BrJ8NH%2BPEpQQaG6ugZfHNA9opqPVny6R80eN%2B%2FI0KvhBkKbDNLXKKBVozVLjAHgbkocoOpg%3D%3D--9CPiDX7%2FVWcnATDV--wFnckzcLmk2x0AeaMO2JzQ%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.513411311.1677847738
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	G1IgYQf6l7ix64_xktfHj.mYgyE7l6U5KFUGU1N.o2M-1677847748-0-Adke//jT19fIcloNt5yMkg/gqABbsfhPLHsd2Y1gDVZ9WjYATqpAQtrYFjgU4VJLnG2i+E+W+RUMmsbHz1bUO6E=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	y07O48v4Bqs
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	xkN9n_mXscQ
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.facebook.com	TRUE	/	FALSE	1999999999	datr	we0BZK-hux4QlHxBpW7wTasQ
+.facebook.com	TRUE	/	FALSE	1999999999	sb	we0BZOmmz-k7seiyEZAdImIy
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167784800289111321
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167784800289111321
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_v0YEM/suJSVEDzHf+6BW6Q=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167784800289111321
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
